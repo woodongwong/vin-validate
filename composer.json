@@ -1,6 +1,7 @@
 {
     "name": "woodongwong/vin-validate",
     "description": "VIN format validation",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "WoodongWong\\VinValidate\\": "src/"
