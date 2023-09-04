@@ -1,0 +1,12 @@
+{
+    "name": "woodongwong/vin-validate",
+    "description": "VIN format validation",
+    "autoload": {
+        "psr-4": {
+            "WoodongWong\\VinValidate\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^7.0 || ^8.0"
+    }
+}
