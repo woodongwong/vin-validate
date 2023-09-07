@@ -4,6 +4,10 @@ This module does simple VIN validation. It checks for proper length, characters,
 
 ## Usage
 
+```shell
+composer require woodongwong/vin-validate
+```
+
 ```php
 require_once __DIR__ . '/vendor/autoload.php';
 
